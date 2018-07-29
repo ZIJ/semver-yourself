@@ -11,3 +11,7 @@ I remember little to none of my early childhood. According to my parents I was e
 ## v1.x “joyful bookworm”
 
 My memories of those times are quite blurry. I read like crazy, especially pop science. Nuclear reactors was my favourite topic. I loved playing chess with my dad. I didn’t socialise much. My mom says I was often bullied at school but I neither cared nor noticed somehow.
+
+## v2.x “nerdy prankster”
+
+I spent days building custom cars out of Lego Technic, and kept reading lots of books. My lifelong best friend shared the passion for Lego, so we’d sit in the back of the classroom and build things. Another passion of mine was everything that burned and / or exploded. I’d make all sorts of dangerous things out of matches, fireworks and basic chemistry. Some of my tricks caused concerns at school but my studies were stellar so I didn’t get much trouble.
