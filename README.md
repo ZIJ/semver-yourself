@@ -19,3 +19,7 @@ I spent days building custom cars out of Lego Technic, and kept reading lots of 
 ## v3.x “computer geek”
 
 Shortly after I discovered boundless capabilities of a computer, this was all I did. I stopped doing math competitions and was reading much less now. I’d spend nights at my dad’s office playing with all sorts of software, browsing internet, digging into system internals and trying things. And we’d have night-long binges at my best friend’s house building stuff in Flash and HTML. I also started to socialise a bit more, a close circle of friends formed.
+
+## v4.x “party animal”
+
+With my discovery of alcohol everything changed again. Computers were my second nature but now I was mostly preoccupied with finding ways to get drunk. I moved to the capital and went to high school there. I distanced myself from “nerdiness” and enjoyed quite a high spot in social rank. Being a good student felt effortless. I stopped reading books completely, but I knew for sure that I wanted to make software in the future, just like my dad. I somehow managed to prepare well enough and get into a top CS school, but the first two years at university were little more than a perpetual party.
