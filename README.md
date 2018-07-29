@@ -22,7 +22,7 @@ Shortly after I discovered boundless capabilities of a computer, this was all I 
 
 ## v4.x “party animal”
 
-With my discovery of alcohol everything changed again. Computers were my second nature but now I was mostly preoccupied with finding ways to get drunk. I moved to the capital and went to high school there. I distanced myself from “nerdiness” and enjoyed quite a high spot in social rank. Being a good student felt effortless. I stopped reading books completely, but I knew for sure that I wanted to make software in the future, just like my dad. I somehow managed to prepare well enough and get into a top CS school, but the first two years at university were little more than a perpetual party.
+With my discovery of alcohol everything changed again. Computers were my second nature but now I was mostly preoccupied with finding ways to get drunk. I moved to the capital and went to high school there. I distanced myself from “nerdiness” and enjoyed a high spot in social rank. Being a good student felt effortless. I stopped reading books completely, but I knew for sure that I wanted to make software in the future, just like my dad. I somehow managed to prepare well enough and get into a top CS school, but the first two years at university were little more than a perpetual party.
 
 ## v5.x “confused student”
 
