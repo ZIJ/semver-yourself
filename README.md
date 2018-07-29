@@ -7,3 +7,7 @@ Then I thought, this could be an interesting concept to play with. Maybe someone
 ## v0.x “hello world”
 
 I remember little to none of my early childhood. According to my parents I was extremely overactive and ignorant of any social order. I loved tearing things apart, watching construction machinery operating, climbing trees and digging deep holes in the backyard.
+
+## v1.x “joyful bookworm”
+
+My memories of those times are quite blurry. I read like crazy, especially pop science. Nuclear reactors was my favourite topic. I loved playing chess with my dad. I didn’t socialise much. My mom says I was often bullied at school but I neither cared nor noticed somehow.
