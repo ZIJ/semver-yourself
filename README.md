@@ -10,7 +10,7 @@ I remember little to none of my early childhood. According to my parents I was e
 
 ## v1.x “joyful bookworm”
 
-My memories of those times are quite blurry. I read like crazy, especially pop science. Nuclear reactors was my favourite topic. I loved playing chess with my dad. I didn’t socialise much. My mom says I was often bullied at school but I neither cared nor noticed somehow.
+My memories of those times are blurry. I read like crazy, especially pop science. Nuclear reactors was my favourite topic. I loved playing chess with my dad. I didn’t socialise much. My mom says I was often bullied at school but I neither cared nor noticed somehow.
 
 ## v2.x “nerdy prankster”
 
