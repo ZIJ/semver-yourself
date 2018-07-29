@@ -24,7 +24,7 @@ Shortly after I discovered boundless capabilities of a computer, this was all I 
 
 With my discovery of alcohol everything changed again. Computers were my second nature but now I was mostly preoccupied with finding ways to get drunk. I moved to the capital and went to high school there. I distanced myself from “nerdiness” and enjoyed a high spot in social rank. Being a good student felt effortless. I stopped reading books completely, but I knew for sure that I wanted to make software in the future, just like my dad. I somehow managed to prepare well enough and get into a top CS school, but the first two years at university were little more than a perpetual party.
 
-## v5.x “confused student”
+## v5.x “confused entrepreneur”
 
 During my third year of university I toned down partying, looked around and saw very little sense in what was going on. Most of curriculum seemed pointless, so I picked a few key areas (mostly maths and computer sciences) and focused on side projects as well as running a web studio we had set up with friends some time earlier. Still, there was very little sense of direction. I despised the thought of having an office job and dreamed of going straight to big business by growing our studio. But how to do it, I had no idea.
 
