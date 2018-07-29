@@ -36,7 +36,7 @@ Things changed abruptly after the summer military training in 2012. There was li
 
 At some point I started to get curious of other things around. Backend, infrastructure, product, management, hr, processes, etc. The broader I went the more exciting it felt. I started to read a lot again. I went teetotal. I tried to apply systems thinking to whatever I got ahold of and for the most part it worked very well. And we also grew fast, so I ended up the go-to person for quite a lot of things. Then I joined Palantir, and there breadth of opportunities to make lasting impact went truly off the charts. I was free to mix soft and hard skills in pretty much any way conceivable, define new roles, and wear as many hats as I wanted. I became a global citizen, splitting time between Singapore, New York, London and Palo Alto.
 
-## v8.0-alpha "no name yet"
+## v8.0-alpha “no name yet”
 
 For now it is sufficient to say that after 2.5 years at Palantir I spent 6 months reflecting and traveling, then started a job that I absolutely love.
 
